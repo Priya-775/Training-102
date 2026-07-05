@@ -81,8 +81,7 @@ Today's learning changed the way I think about interacting with AI. I realized t
 - Practice writing different types of prompts.
 - Explore more real-world AI tools and applications.
 - 📝 Prompt Comparison Table
-- | Prompt Type     | Example                                                                                      |
-| --------------- | -------------------------------------------------------------------------------------------- |
+- | Prompt Type     | Example|
 | Basic Prompt    | Explain Machine Learning.                                                                    |
 | Improved Prompt | Explain Machine Learning for a college student using simple examples in less than 250 words. |
 💡 Important Note
