@@ -79,10 +79,11 @@ Today's learning changed the way I think about interacting with AI. I realized t
 ## Plan for Tomorrow
 - Learn more advanced AI concepts.
 - Practice writing different types of prompts.
-- Explore more real-world AI tools and applications.
-- 📝 Prompt Comparison Table
-- | Prompt Type   |                                                                                     Example|
--| Basic Prompt    |                                                                      Explain Machine Learning.|
--| Improved Prompt | Explain Machine Learning for a college student using simple examples in less than 250 words. |
+- Explore more real-world AI tools and applications.## Prompt Comparison
+
+| Prompt Type | Example |
+|-------------|---------|
+| Basic Prompt | Explain Machine Learning. |
+| Improved Prompt | Explain Machine Learning for a college student using simple examples in less than 250 words. |
 💡 Important Note
 A well-designed prompt can significantly improve the quality, accuracy, and relevance of AI-generated responses.
