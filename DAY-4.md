@@ -85,5 +85,6 @@ Today's learning changed the way I think about interacting with AI. I realized t
 |-------------|---------|
 | Basic Prompt | Explain Machine Learning. |
 | Improved Prompt | Explain Machine Learning for a college student using simple examples in less than 250 words. |
-**##💡 Important Note**
-A well-designed prompt can significantly improve the quality, accuracy, and relevance of AI-generated responses.
+## 💡 Important Note
+
+Prompt Engineering is not about asking more questions; it is about asking the **right question** with proper context, clear instructions, and the expected output.
